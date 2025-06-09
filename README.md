@@ -1,2 +1,2 @@
 # SamayaSafar
-SamayaSafar is a bus tracking app, helping the students to track there school, college and university buses for there respective routes.
+SamayaSafar is my on going project this is the project to track the buses around or book the bus, which includes map and many more features.

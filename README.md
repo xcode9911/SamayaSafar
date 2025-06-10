@@ -1,2 +1,2 @@
 # SamayaSafar
-SamayaSafar is my on going project this is the project to track the buses around or book the bus, which includes map and many more features.
+SamayaSafar is a mobile app that connects drivers and passengers, allowing seat booking, bus tracking via maps, and AI chat features. (Ongoing project – frontend UI completed)
